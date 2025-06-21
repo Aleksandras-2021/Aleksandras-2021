@@ -5,7 +5,6 @@
  -  `imbieras/psi-2023-lab` - a Tinder-like academic matching program for study buddy finding built with .NET.
  -  `Point-Of-Sale-System` - a Business-to-Business point of sale system with inventory management & Employee roles and more built with .NET.
  -  `DzefersonS/Under-Siege` - a 2D economy management/defense game built with Unity.
- -  `Custom-Pong` - ping pong game built with JAVA.
  -  `Vurello` - a Trello clone .
 
 <!--
