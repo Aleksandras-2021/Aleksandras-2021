@@ -2,10 +2,10 @@
 
 ### Projects:
 
- -  `imbieras/psi-2023-lab` - a Tinder-like academic matching program for study buddy finding built with .NET.
- -  `Point-Of-Sale-System` - a Business-to-Business point of sale system with inventory management, Employee roles, and more.
+ -  `imbieras/psi-2023-lab` - a Tinder-like academic matching program for finding a study buddy built with .NET.
+ -  `Point-Of-Sale-System` - a Business-to-Business point of sale system with inventory management, employee roles, and more.
  -  `DzefersonS/Under-Siege` - a 2D economy management/defense game built with Unity.
- -  `Vurello` - a customizable Trello clone.
+ -  `Vurello` - a customizable Trello clone built with .NET, React.
 
 <!--
 **Aleksandras-2021/Aleksandras-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
