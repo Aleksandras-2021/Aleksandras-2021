@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Projects:
- -  `Quortle` - a 4-letter variation of Wordle. Built with GO and deployed with AWS.
+ -  `Quortle` - a 4-letter variation of Wordle. Built with GO and deployed with AWS. Can be visited in: [quortle.eu](http:quortle.eu)
  -  `imbieras/psi-2023-lab` - a Tinder-like academic matching program for finding a study buddy built with .NET.
  -  `DzefersonS/Under-Siege` - a 2D economy management/defense game built with Unity.
  -  `Vurello` - a customizable Trello clone built with .NET, React.
