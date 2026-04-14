@@ -1,7 +1,7 @@
-# Hi, I'm Aleksandras 👋
+# Hi, I'm Aleksandras 
 Backend-focused software engineer with an interest in APIs and deployment pipelines.
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
@@ -10,7 +10,7 @@ Backend-focused software engineer with an interest in APIs and deployment pipeli
 | [Study Buddy Matcher](https://github.com/imbieras/psi-2023-lab) | Tinder-style academic matching app for finding study partners | ASP.NET Core, .NET, PostgreSQL | — |
 | [Under Siege](https://github.com/DzefersonS/Under-Siege) | 2D economy management and tower defense game | Unity, C# | — |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
